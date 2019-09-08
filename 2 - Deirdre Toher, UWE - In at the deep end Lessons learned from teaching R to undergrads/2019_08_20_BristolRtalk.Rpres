@@ -1,0 +1,124 @@
+Bristol R User Group
+========================================================
+author: Deirdre Toher
+date: 2019-08-20
+autosize: true
+
+About me
+========================================================
+left: 80%
+
+- Find me [@dtoher](https://twitter.com/dtoher) or [https://people.uwe.ac.uk/Person/DeirdreToher](https://people.uwe.ac.uk/Person/DeirdreToher).
+- 10 years teaching in UWE Bristol.
+- (Currently) head of Mathematics and Statistics at UWE Bristol.
+- Involved in the [Royal Statistical Society](https://www.rss.org.uk/).
+- Primarily an applied statistician.
+ 
+***
+<img width="75%" src="images/me.jpg"/>
+
+
+Starting Point
+========================================================
+
+```{r Starting, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/Starting_Point.jpg")
+```
+
+Springboard
+========================================================
+
+```{r Springboard, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/Springboard_from_nowhere.jpg")
+```
+
+
+Challenge them!
+========================================================
+
+```{r Challenge, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/Challenge_Image.jpg")
+```
+
+
+Motivation
+========================================================
+```{r Queue, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/Queue.jpg")
+```
+
+Examples of Assignments
+========================================================
+```{r Festival, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/festival_gathering.jpg")
+```
+
+Marking Scheme
+========================================================
+
+Report [40 marks]
+
+R code: 
+-	Exploratory data analysis 						[10 marks]
+- Appropriate modelling techniques employed 			[15 marks]
+- Appropriate commenting throughout the code 			[10 marks]
+- Detailed checking of model assumptions 			[10 marks]
+
+Overall Quality:
+- overall quality of thought and innovation [15 marks]
+
+
+Feedback: use of screen capture
+========================================================
+
+```{r Feedback, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("images/movies_video.jpg")
+```
+
+
+(Major) Lessons learned
+========================================================
+incremental: true
+
+- The brief matters.
+ - Have you given students room to explore?
+   - Can make for challenging marking.
+   
+- Timing matters.
+ - What do they already know?
+ - Vocabulary is required.
+ 
+- Students hate it at the time!
+ - Appreciation comes later.
+ 
+ 
+What next?
+========================================================
+incremental: true
+
+- PBL
+ - Problem
+ - Practice
+ - Project
+
+- R sooner.
+- Needs more "messy" data.
+
+What next?
+========================================================
+incremental: true
+
+- Project weeks
+
+```{r ProjectWeek, echo=FALSE, out.height = '25%'}
+knitr::include_graphics("images/groupwork.jpg")
+```
+
+Find me
+=======================================================
+
+Twitter: [@dtoher](https://twitter.com/dtoher)
+
+<img width="70%" src="images/TossUp.jpg"/>
+
+These slides: [https://github.com/dtoher/BristolR](https://github.com/dtoher/BristolR)
